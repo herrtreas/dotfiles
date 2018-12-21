@@ -41,6 +41,11 @@ imap <down> <nop>
 imap <left> <nop>
 imap <right> <nop>
 
+nmap <C-h> <C-w>h
+nmap <C-j> <C-w>j
+nmap <C-k> <C-w>k
+nmap <C-l> <C-w>l
+
 " Return to the last file opened
 nmap <Leader><Leader> <c-^>
 
