@@ -61,6 +61,7 @@ Plug 'Shougo/vimfiler.vim', { 'on': 'VimFiler' }
 Plug 'Shougo/deoplete.nvim', { 'do': ':UpdateRemotePlugins' }
 Plug 'w0rp/ale'
 Plug 'justinmk/vim-sneak'
+Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
 
 " Plugin Settings
