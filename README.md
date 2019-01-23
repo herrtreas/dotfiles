@@ -1,5 +1,15 @@
 # Dotfiles
 
+Based on https://wrotenwrites.com/a_modern_terminal_workflow_1/
+
+## Install
+
+1. Run `init.sh`
+2. Run `:PlugInstall` from within Vim
+3. Trigger `Ctrl b I` from within Tmux
+4. Convince iTerm to load its configuration from the `dotfiles` folder.
+
+
 ## Shortcuts
 
 ### NeoVim
