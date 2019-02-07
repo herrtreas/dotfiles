@@ -9,6 +9,7 @@ export PATH=/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/bin:$PA
 export GOPATH=$HOME/Coding
 export PATH=$PATH:$GOPATH/bin
 export PATH=$PATH:/usr/local/go/bin:/usr/local/opt/go/libexec/bin
+export PATH="/usr/local/opt/ruby/bin:$PATH"
 
 # Fasd
 eval "$(fasd --init auto)"
